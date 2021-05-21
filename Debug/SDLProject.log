@@ -1,0 +1,133 @@
+﻿  Entity.cpp
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.h(54,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(108,52): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(114,53): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(127,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(128,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(130,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(131,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(134,33): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(135,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(207,103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(222,96): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(248,107): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(259,109): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(274,100): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(291,107): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(317,103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(328,105): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(343,96): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(360,103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(386,103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(396,101): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(410,96): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(427,103): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(440,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(441,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(443,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(444,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(457,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(523,101): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(527,100): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(559,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(564,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(584,95): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(599,101): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.cpp(609,107): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Entity.h(54,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\main.cpp(593,13): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\main.cpp(834,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ShaderProgram.cpp
+  Util.cpp
+C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Util.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDLProject.vcxproj -> C:\Users\grc28\Documents\OpenGL-Gaming-Projects\P6\SDLProject6\Debug\SDLProject.exe
